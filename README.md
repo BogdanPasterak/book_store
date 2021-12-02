@@ -1,2 +1,2 @@
-# book_store
+# Book Store
 Book Store - Java project (Eclipse)
